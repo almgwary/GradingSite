@@ -1,5 +1,6 @@
 # GradingSite
-grading site with MySQL and java JSP
+grading site with MySQL, java, JSP, Servelt and BootStrap.
+  you can login as Teacher or Student, Teacher Can create many coureses and student can join any course. teacher can put grade for student and see smoe analytical views, student can see his grades in courses.
 
   
   
